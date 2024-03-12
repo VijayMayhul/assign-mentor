@@ -1,7 +1,7 @@
 
 # Mentor-Student-API
 
-This is my Mentor-Student API which was designed by me. Through this task I connected nodejs and atlas mongodb. It's Guvi-Zen class Roadmap session: Day-39 and Nodejs: Day-3 Task.
+This is Mentor-Student API which was designed by me. Through this task I connected nodejs and atlas mongodb. It's Guvi-Zen class Roadmap session: Day-39 and Nodejs: Day-3 Task.
 
 ## Tech Stack
 
@@ -30,7 +30,7 @@ I used Postman to test my api endpoints are working fine.
 
 ## Website
 
-[Mentor-Student-API]()
+[Mentor-Student-API](https://assign-mentor-vpzv.onrender.com/)
 
 
 ## API Documentation
